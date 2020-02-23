@@ -11,6 +11,7 @@ Installation instructions:
 5. ./sudoku
 
 How to use:
+
 Enter cell's info format is row,column,value without the commas.
 E.g. if you want to put number 6 in (1,3) position then you type 136 and hit enter
 When you are done putting all the values from the given sudoku, just type any (4+)-digit number e.g. 1369, 42017
